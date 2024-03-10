@@ -1,2 +1,2 @@
-# MY FIRST GIT HUB PRJET
-THIS IS MY FIRST PROJECT ,I WILL PUBLISH FROM VS 
+# This is my first project 
+I will share via VS 
